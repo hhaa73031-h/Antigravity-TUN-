@@ -1,0 +1,7 @@
+{
+  "proxy_port": 10808,
+  "modify_shortcut": true,
+  "set_git_proxy": true,
+  "is_enabled": true,
+  "last_tested_latency": null
+}

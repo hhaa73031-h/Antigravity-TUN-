@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.spec
+
+# PyInstaller / Build Artifacts
+build/
+dist/
+
+# Logs & Temp files
+*.log
+*.tmp
+
+# Local config (可选：避免个人端口设置覆盖默认)
+# config.json
+
+# OS specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
