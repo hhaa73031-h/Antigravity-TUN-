@@ -54,7 +54,7 @@ Antigravity 内部采用 **Electron 前端界面 + 本地后端语言服务器 (
 * `Launcher.cs`：原生启动器 C# 源码。
 * `app.py`：现代暗黑 UI 源代码（基于 `CustomTkinter`）。
 * `proxy_manager.py`：注册表、环境变量与快捷方式管理核心代码。
-* `启动免TUN代理工具.bat` / `.vbs`：轻量启动脚本。
+* `config.json`：默认端口与用户设置存储文件。
 
 ---
 
